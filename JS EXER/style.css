@@ -1,0 +1,14 @@
+body {
+    position: relative;
+}
+
+h1 {
+    position: absolute;
+}
+
+.center {
+    position: absolute;
+    width: 1200px;
+    height: 726px;
+    background-color: aquamarine;
+}
